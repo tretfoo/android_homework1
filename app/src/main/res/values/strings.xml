@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Анкета</string>
+    <string name="name_label">Имя</string>
+    <string name="age_label">Возраст: %1$d</string>
+    <string name="gender_label">Пол</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="subscribe_label">Хочу получать новости</string>
+    <string name="submit_button">Отправить</string>
+    <string name="name_error">Введите имя</string>
+    <string name="result_name">Имя: %1$s</string>
+    <string name="result_age">Возраст: %1$d</string>
+    <string name="result_gender">Пол: %1$s</string>
+    <string name="result_subscribe_yes">Подписка: да</string>
+    <string name="result_subscribe_no">Подписка: нет</string>
+</resources>
